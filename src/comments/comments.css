@@ -1,0 +1,58 @@
+
+.comment_section {
+    display: flex;
+    justify-content: center;
+}
+
+.comment_section h3{
+    color: linear-gradient(90deg, rgba(63,89,251,1) 28%, rgba(252,70,107,1) 100%);
+}
+
+.comments {
+    width: 70%;
+    margin: 64px;
+    padding: 32px;
+    color: #ccc;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+form input[type=text] {
+    border-radius: 8px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+form input[type=submit] {
+    align-self: center;
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+}
+
+
+input[type=text] {
+    border-radius: 8px;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.capdiv {
+    display:flex;
+    flex-direction: row;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.capdiv p{
+    font-size: 32;
+    font-weight: bold;
+}

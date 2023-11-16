@@ -1,0 +1,76 @@
+{
+    "mercury" : {
+        "name": "Mercury",
+        "order": 1,
+        "moons": 0,
+        "size": "Small",
+        "life": false,
+        "water": false,
+        "description": "Mercury is the closest planet to the Sun and has a very thin atmosphere."
+      },
+      "venus": {
+        "name": "Venus",
+        "order": 2,
+        "moons": 0,
+        "size": "Medium",
+        "life": false,
+        "water": false,
+        "description": "Venus is known for its thick and toxic atmosphere, making it extremely hot."
+      },
+      "earth": {
+        "name": "Earth",
+        "order": 3,
+        "moons": 1,
+        "size": "Medium",
+        "life": true,
+        "water": true,
+        "description": "Earth is the only known planet to support life and has abundant water."
+      },
+      "mars": {
+        "name": "Mars",
+        "order": 4,
+        "moons": 2,
+        "size": "Small",
+        "life": "possible",
+        "water": "possible",
+        "description": "Mars is known for its red appearance and is a target for future human exploration."
+      },
+      "jupiter": {
+        "name": "Jupiter",
+        "order": 5,
+        "moons": 79,
+        "size": "Large",
+        "life": false,
+        "water": "possible",
+        "description": "Jupiter is the largest planet and has a strong magnetic field."
+      },
+      "saturn": {
+        "name": "Saturn",
+        "order": 6,
+        "moons": 83,
+        "size": "Large",
+        "life": false,
+        "water": "possible",
+        "description": "Saturn is known for its beautiful ring system."
+      },
+      "uranus": {
+        "name": "Uranus",
+        "order": 7,
+        "moons": 27,
+        "size": "Medium",
+        "life": false,
+        "water": "possible",
+        "description": "Uranus is unique for its extreme axial tilt, making it appear to roll on its side."
+      },
+      "neptune": {
+        "name": "Neptune",
+        "order": 8,
+        "moons": 14,
+        "size": "Medium",
+        "life": false,
+        "water": "possible",
+        "description": "Neptune is a distant ice giant and has a strong blue color due to methane in its atmosphere."
+      }
+    
+  }
+  

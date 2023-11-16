@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    background: #111;
+    background: linear-gradient(90deg, #111 0%, #111 50%, #222 100%);
+    color: white;
+
+}
+
+.title {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+
+}
+
+.navbar {
+    flex-direction: row;
+    display: flex;
+    background-color: #222;
+    border-bottom-right-radius: 8px;
+}
+
+.navbar a {
+    padding-left: 30px;
+    padding-right: 60px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navbar a:active {
+    background-color: white;
+    color: black;
+}
+
+.navbar #loginButton {
+    padding-right: 30px;
+    padding-left: auto;
+}
